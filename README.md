@@ -70,7 +70,7 @@ TBD. The specification's TBDs (measured envelope drawings, electrical appendix, 
 
 ## Contributing / Contact
 
-TBD.
+normbrooks.systems@gmail.com
 
 ## License
 
