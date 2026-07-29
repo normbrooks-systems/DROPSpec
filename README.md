@@ -66,7 +66,8 @@ The branches get walked when someone shows up with the itch. The trunk — open 
 
 ## Roadmap
 
-TBD. The specification's TBDs (measured envelope drawings, electrical appendix, dimension freezes) are the near-term work.
+See the following file:
+- 'deliverables-reference-implementation.md'
 
 ## Contributing / Contact
 
