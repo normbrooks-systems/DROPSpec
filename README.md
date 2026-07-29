@@ -67,7 +67,7 @@ The branches get walked when someone shows up with the itch. The trunk — open 
 ## Roadmap
 
 See the following file:
-- 'deliverables-reference-implementation.md'
+- `deliverables-reference-implementation.md`
 
 ## Contributing / Contact
 
