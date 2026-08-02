@@ -1,6 +1,6 @@
 # DROPSpec
 
-**D**eposition **R**etrofit **O**pen **P**rint **S**tandard — an open standard for putting industrial inkjet on open motion platforms, with a desktop press as its reference implementation.
+**D**eposition **R**aster **O**pen **P**rint **S**tandard — an open standard for putting industrial inkjet on open motion platforms, with a desktop press as its reference implementation.
 
 ## Status
 
