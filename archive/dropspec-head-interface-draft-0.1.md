@@ -4,7 +4,7 @@
 
 Part of DROPSpec — the Deposition Retrofit Open Print Standard.
 
-##***THIS DOCUMENT HAS BEEN SUPERCEDED***
+# ***THIS DOCUMENT HAS BEEN SUPERCEDED***
 
 ---
 
