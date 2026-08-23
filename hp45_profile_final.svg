@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="2324" height="2675" viewBox="-62 -40 178.75 205.78">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 z" fill="#0a58c2"/></marker>
+<marker id="arT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,1 L10,5 L0,9 z" fill="#c2410c"/></marker></defs>
+<rect x="-62" y="-40" width="178.75" height="205.78" fill="#ffffff"/>
+<g transform="scale(0.04233333) translate(-505.4005,-263.9487) rotate(-7.133)"><g transform="translate(0.000000,3084.000000) scale(0.010000,-0.010000)"><path d="M73050 271791 c-6593 -681 -12651 -3169 -17900 -7354 -1411 -1125
+-3862 -3576 -4987 -4987 -3618 -4538 -5981 -9718 -6956 -15250 -195 -1110
+-5699 -44718 -5900 -46750 -54 -550 -169 -1495 -254 -2100 -86 -605 -246
+-1887 -355 -2850 -110 -962 -220 -1885 -245 -2050 -159 -1041 -486 -3628 -708
+-5595 -142 -1263 -275 -2323 -296 -2357 -21 -33 -133 -933 -249 -1999 -116
+-1066 -278 -2301 -358 -2744 -170 -925 -361 -2438 -589 -4655 -88 -852 -204
+-1775 -257 -2050 -54 -275 -214 -1512 -357 -2750 -142 -1237 -280 -2284 -306
+-2326 -25 -43 -134 -808 -242 -1700 -107 -893 -239 -1997 -294 -2453 -55 -456
+-143 -906 -196 -1000 -53 -94 -186 -1093 -296 -2221 -109 -1127 -288 -2545
+-397 -3150 -109 -605 -293 -2157 -408 -3450 -116 -1292 -273 -2620 -349 -2950
+-77 -330 -188 -1162 -248 -1850 -188 -2169 -306 -3226 -452 -4050 -78 -440
+-191 -1362 -252 -2050 -146 -1642 -386 -3562 -499 -4000 -50 -192 -138 -845
+-196 -1450 -162 -1700 -401 -3653 -508 -4150 -53 -247 -208 -1553 -345 -2900
+-137 -1347 -314 -2765 -393 -3150 -80 -385 -217 -1465 -304 -2400 -88 -935
+-224 -2105 -303 -2600 -79 -495 -281 -1980 -449 -3300 -167 -1320 -348 -2603
+-403 -2850 -54 -247 -194 -1305 -310 -2350 -117 -1045 -248 -2147 -293 -2450
+-257 -1767 -602 -4618 -585 -4850 16 -232 -169 -1828 -314 -2700 -55 -330
+-189 -1588 -299 -2795 -109 -1207 -263 -2444 -342 -2750 -79 -305 -192 -1207
+-251 -2005 -117 -1573 -347 -3610 -510 -4525 -57 -316 -144 -1036 -195 -1600
+-183 -2030 -422 -3826 -517 -3885 -53 -33 -214 -1270 -358 -2750 -145 -1479
+-292 -2712 -329 -2740 -36 -27 -187 -1310 -334 -2850 -148 -1540 -331 -2980
+-407 -3200 -143 -415 -280 -1759 -458 -4499 -57 -880 -170 -2005 -250 -2500
+-80 -496 -146 -1370 -147 -1943 0 -1002 13 -1065 350 -1677 497 -905 1331
+-1604 2154 -1806 245 -61 1076 -183 1846 -273 770 -89 1963 -249 2650 -354
+688 -105 1835 -258 2550 -340 715 -82 2560 -307 4100 -500 1540 -193 3408
+-422 4150 -510 743 -87 1823 -223 2400 -300 578 -78 1815 -235 2750 -348 935
+-114 2848 -361 4250 -550 2538 -342 6061 -777 7300 -900 358 -36 1370 -151
+2250 -256 2844 -340 4483 -494 5258 -494 657 0 785 30 970 226 317 338 490
+827 627 1774 67 467 164 876 214 909 91 59 168 740 383 3391 65 798 161 1675
+213 1950 53 275 105 590 115 700 11 110 50 223 86 250 36 28 139 905 229 1950
+90 1045 254 2440 363 3100 430 2588 479 2927 539 3700 35 440 107 980 162
+1200 55 220 185 1048 291 1840 105 793 234 1484 287 1537 61 61 470 38 1129
+-62 2086 -319 2353 -357 3334 -475 550 -66 1135 -160 1300 -209 629 -187 2630
+-477 3300 -478 605 -1 806 50 1483 375 l783 377 1117 -128 c1975 -227 3115
+-309 3198 -231 45 42 119 297 164 565 l81 489 12 -425 c13 -445 225 -594 358
+-250 37 96 110 1300 161 2675 131 3515 154 3792 175 2175 14 -1124 47 -1425
+154 -1425 157 0 258 759 276 2090 6 473 40 1149 75 1502 62 626 70 642 363
+661 303 19 1107 -50 3077 -263 l1077 -117 410 -489 c225 -269 490 -532 588
+-585 203 -109 6439 -899 7093 -899 307 0 549 83 865 296 789 533 730 525 2163
+312 1734 -258 5563 -751 7814 -1007 983 -112 1825 -228 1873 -257 81 -50 6221
+-844 8090 -1046 468 -51 1390 -163 2050 -250 1366 -181 3551 -445 6600 -798
+1155 -134 2235 -266 2400 -294 669 -112 2993 -353 4450 -462 1406 -105 4714
+-59 4921 69 42 26 403 66 802 89 789 45 2897 408 4314 743 3357 792 7733 2715
+10787 4740 635 421 1184 765 1222 765 37 0 211 146 386 325 175 179 472 438
+661 575 1543 1123 4188 3852 5856 6041 473 620 1920 2765 2266 3359 1139 1953
+2323 4800 2975 7150 649 2344 926 3740 1257 6350 87 688 228 1768 313 2400 85
+633 193 1607 239 2166 116 1408 306 2556 452 2734 76 93 148 685 190 1550 94
+1975 379 4641 667 6250 54 303 2169 17155 4698 37450 2530 20295 5341 42795
+6247 50000 930 7395 1699 13895 1766 14925 502 7690 -1942 15724 -6711 22067
+-5057 6726 -12581 11389 -20753 12862 -1038 187 -74307 9464 -76541 9691
+-1189 121 -5179 118 -6364 -4z" fill="none" stroke="#111111" stroke-width="992" stroke-linejoin="round"/></g></g>
+<g transform="scale(0.04233333) translate(-505.4005,-263.9487) rotate(-7.133)"><g transform="translate(0.000000,3084.000000) scale(0.010000,-0.010000)"><path d="M170506 255687 c3 -76 307 -377 675 -670 3407 -2717 6552 -6642 8664
+-10817 2135 -4220 3267 -8452 3574 -13357 157 -2508 46 -4140 -665 -9818 -305
+-2434 -554 -4470 -554 -4525 0 -265 344 -9 1352 1008 l1098 1108 950 -64
+c1285 -85 1302 -70 1385 1199 l65 988 726 596 727 596 558 -125 c307 -68 715
+-95 907 -59 295 55 381 137 558 534 134 299 206 658 200 988 -9 426 28 545
+207 667 119 82 420 335 667 564 486 448 534 454 1915 238 566 -89 740 152 813
+1121 65 869 123 952 1139 1629 381 255 461 271 950 195 1654 -259 1625 -269
+1718 626 92 880 275 1179 1019 1668 536 352 686 409 848 322 187 -100 497
+-157 1466 -269 380 -45 430 -23 562 236 79 156 175 538 213 848 106 875 193
+945 1019 814 1376 -218 1592 -170 1742 387 210 781 496 2699 494 3317 -1 340
+-69 911 -150 1268 -81 357 -278 1257 -438 2000 -280 1305 -633 2723 -950 3821
+-84 291 -292 1114 -462 1829 -171 715 -348 1370 -393 1456 -46 86 -136 423
+-201 750 -132 667 -276 1197 -405 1494 -48 110 -179 564 -290 1009 -293 1174
+-791 2630 -1057 3091 -852 1476 -2847 2472 -4648 2321 -678 -57 -691 -54
+-1213 336 -788 588 -1134 557 -1843 -164 -301 -306 -548 -594 -548 -641 0 -88
+-1401 -267 -1741 -223 -104 13 -383 202 -619 419 -737 680 -961 652 -1855
+-236 l-465 -462 -956 -25 -956 -25 -532 525 c-728 718 -1022 720 -1753 12
+l-527 -510 -1011 41 -1011 40 -562 623 c-463 513 -617 623 -873 621 -298 -2
+-929 -403 -1207 -766 -105 -138 -231 -137 -1244 11 -620 91 -1163 188 -1207
+214 -43 27 -220 261 -394 519 -173 259 -385 526 -470 595 -277 223 -745 141
+-1289 -225 -286 -193 -585 -350 -664 -350 -114 0 -1990 500 -2889 771 -108 32
+-173 0 -169 -84z" fill="none" stroke="#111111" stroke-width="992" stroke-linejoin="round"/></g></g>
+<g transform="scale(0.04233333) translate(-505.4005,-263.9487) rotate(-7.133)"><g transform="translate(0.000000,3084.000000) scale(0.010000,-0.010000)"><path d="M49484 274168 c-68 -73 -223 -114 -344 -91 -152 29 -237 -15 -273
+-142 -143 -505 -178 -876 -117 -1237 57 -335 106 -398 309 -398 132 0 241 -45
+241 -100 0 -55 -93 -100 -207 -100 -289 0 -552 -156 -1250 -741 -333 -280
+-742 -621 -908 -759 -535 -443 -646 -811 -693 -2285 l-43 -1336 317 -489 c175
+-270 354 -490 398 -490 116 0 405 -589 340 -694 -30 -48 -136 -66 -236 -40
+-140 37 -207 -39 -293 -334 -62 -210 -107 -494 -99 -632 7 -137 -5 -722 -26
+-1300 -30 -830 -46 -919 -74 -425 -30 523 -65 625 -216 625 -211 0 -253 -455
+-383 -4150 -42 -1210 -91 -1986 -107 -1725 -25 384 -66 475 -215 475 -167 0
+-190 -126 -245 -1325 -165 -3611 -144 -4575 98 -4575 176 0 326 572 293 1114
+-14 240 -6 335 18 211 24 -124 98 -224 163 -222 65 1 410 553 768 1225 809
+1521 2303 3776 3460 5222 1134 1417 3585 3867 4990 4987 1895 1510 4228 3012
+6175 3975 591 292 875 488 875 604 0 304 -192 688 -373 746 -98 32 -312 118
+-477 192 -426 192 -1591 595 -2325 805 -344 98 -625 215 -625 260 0 45 -132
+81 -294 81 -162 0 -322 45 -356 100 -34 55 -165 100 -290 100 -126 0 -313 93
+-415 206 -128 141 -258 187 -418 147 -155 -39 -251 -8 -290 95 -33 85 -179
+152 -335 152 -153 0 -334 68 -402 150 -68 83 -226 150 -350 150 -124 0 -284
+71 -356 157 -71 86 -215 135 -319 107 -120 -31 -267 40 -400 193 -127 146
+-320 243 -482 243 -158 0 -298 68 -334 161 -38 101 -134 143 -255 111 -114
+-30 -263 27 -364 139 -94 104 -271 189 -393 189 -122 0 -279 68 -347 150 -68
+83 -221 150 -340 150 -119 0 -317 71 -440 157 -124 87 -280 138 -348 114 -67
+-25 -203 26 -303 113 -146 127 -217 134 -375 36 -117 -73 -194 -82 -194 -21 0
+147 -371 124 -516 -31z" fill="none" stroke="#111111" stroke-width="992" stroke-dasharray="3780 2835" stroke-linejoin="round"/></g></g>
+<rect x="-8.0" y="17.250" width="8.0" height="15.0" fill="#e8eef7" stroke="#0a58c2" stroke-width=".4"/>
+<text x="-9.0" y="23.250" font-size="2.6" font-family="DejaVu Sans,sans-serif" font-weight="700" fill="#0a58c2" text-anchor="end">TOOMAH</text>
+<text x="-9.0" y="26.650" font-size="2.0" font-family="DejaVu Sans,sans-serif" fill="#0a58c2" text-anchor="end">8.0 proud of AB</text>
+<text x="-9.0" y="29.650" font-size="2.0" font-family="DejaVu Sans,sans-serif" fill="#0a58c2" text-anchor="end">15.0 tall, 12.0 wide on AB</text>
+<line x1="0" y1="-1" x2="0" y2="-36" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="60.02" y1="-1" x2="60.02" y2="-36" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="68.75" y1="-1" x2="68.75" y2="-36" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="0" y1="92.78" x2="0" y2="157.78" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="18.92" y1="92.78" x2="18.92" y2="157.78" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="26.8" y1="92.78" x2="26.8" y2="157.78" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="-1" y1="0" x2="-57" y2="0" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="-1" y1="91.78" x2="-57" y2="91.78" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="-1" y1="78.04" x2="-57" y2="78.04" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="69.75" y1="0" x2="102.75" y2="0" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="69.75" y1="0.87" x2="102.75" y2="0.87" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="69.75" y1="17.92" x2="102.75" y2="17.92" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="69.75" y1="81.84" x2="102.75" y2="81.84" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="0" y1="-32" x2="68.75" y2="-32" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="34.375" y="-37.0" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">A</text>
+<text x="34.375" y="-33.8" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="middle">68.60</text>
+<line x1="0" y1="-22" x2="60.02" y2="-22" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="30.01" y="-27.0" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">B</text>
+<text x="30.01" y="-23.8" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="middle">60.10</text>
+<line x1="60.02" y1="-12" x2="68.75" y2="-12" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="64.385" y="-17.0" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">M</text>
+<text x="64.385" y="-13.8" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="middle">8.50</text>
+<line x1="0" y1="104.78" x2="18.92" y2="104.78" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="9.46" y="107.98" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">C</text>
+<text x="9.46" y="111.18" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="middle">19.00</text>
+<line x1="0" y1="115.78" x2="26.8" y2="115.78" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="13.4" y="118.98" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">D</text>
+<text x="13.4" y="122.18" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="middle">26.80</text>
+<line x1="-40" y1="0" x2="-40" y2="91.78" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="-41.8" y="44.89" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="end">E</text>
+<text x="-41.8" y="48.09" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="end">91.90</text>
+<line x1="-22" y1="0" x2="-22" y2="78.04" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="-23.8" y="38.02" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="end">G</text>
+<text x="-23.8" y="41.220000000000006" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="end">78.10</text>
+<line x1="80.75" y1="0" x2="80.75" y2="81.84" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="82.55" y="39.92" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="start">F</text>
+<text x="82.55" y="43.120000000000005" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="start">82.10</text>
+<line x1="55.28" y1="74.34" x2="64.65" y2="84.74" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)"/>
+<text x="64.65026310721231" y="83.54086874043448" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="start">J</text>
+<text x="64.65026310721231" y="86.74086874043448" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="start">R14.25</text>
+<line x1="45.69" y1="0.03" x2="45.69" y2="-13.97" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)"/>
+<text x="45.68999999999999" y="-15.166000000000002" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">K</text>
+<text x="45.68999999999999" y="-11.966000000000001" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="middle">R14.25</text>
+<line x1="0.94" y1="9.38" x2="-12.21" y2="4.59" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)"/>
+<text x="-12.212557766718772" y="3.389299031623163" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="end">L</text>
+<text x="-12.212557766718772" y="6.589299031623163" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="end">R14.25</text>
+<rect x="-1.4" y="-1.4" width="9.8" height="12.8" fill="none" stroke="#c2410c" stroke-width=".35" stroke-dasharray="2 1.4" rx="1"/>
+<text x="9.6" y="-3.2" fill="#c2410c" font-size="3.0" font-weight="700" font-family="DejaVu Sans,sans-serif" text-anchor="start">EXC-1  locator tab</text>
+<rect x="16.6" y="75.6" width="11.0" height="17.80000000000001" fill="none" stroke="#c2410c" stroke-width=".35" stroke-dasharray="2 1.4" rx="1"/>
+<text x="28.6" y="96.0" fill="#c2410c" font-size="3.0" font-weight="700" font-family="DejaVu Sans,sans-serif" text-anchor="start">EXC-2  bottom step</text>
+<text x="31" y="6.0" fill="#333333" font-size="3.5" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">AA ^</text>
+<text x="6.2" y="46" fill="#333333" font-size="3.5" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">AB &lt;</text>
+<text x="9.5" y="88.6" fill="#333333" font-size="3.5" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">AC v</text>
+<text x="35" y="74.6" fill="#333333" font-size="3.5" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">AD v</text>
+<text x="54.5" y="46" fill="#333333" font-size="3.5" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">AG &gt;</text>
+<line x1="-9" y1="78.04" x2="-9" y2="91.78" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="-10.8" y="83.91" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="end">N</text>
+<text x="-10.8" y="87.11" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="end">13.80</text>
+<line x1="60.02" y1="64" x2="60.02" y2="122.78" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="26.8" y1="93.78" x2="26.8" y2="122.78" stroke="#0a58c2" stroke-width=".12" stroke-dasharray="1.2 1"/>
+<line x1="26.8" y1="125.78" x2="60.02" y2="125.78" stroke="#0a58c2" stroke-width=".22" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="43.410000000000004" y="128.98" fill="#0a58c2" font-size="3.6" font-family="DejaVu Sans,sans-serif" font-weight="700" text-anchor="middle">O</text>
+<text x="43.410000000000004" y="132.17999999999998" fill="#5b8fd6" font-size="2.4" font-family="DejaVu Sans,sans-serif" text-anchor="middle">33.30</text>
+<text x="-59.0" y="138.8" fill="#666" font-size="2.5" font-family="DejaVu Sans,sans-serif"><tspan x="-59.0" dy="0">HP 45 / C8842A  -  profile dimensions to classify.  Letters A-M are the measurement schedule.</tspan><tspan x="-59.0" dy="3.4">Values are CALIPER READINGS. Outline offset +0.082 mm per edge to match; residual +0.07 +/- 0.12 mm.</tspan><tspan x="-59.0" dy="3.4">N: locator tab projects 0.50 mm left of the body edge (measured; outline not yet corrected).</tspan><tspan x="-59.0" dy="3.4">Z (thickness, into page) = 18.80. TOOMAH stands 8.0 proud of AB, 15.0 tall x 12.0 wide, top 3.0 below the R14.25 tangent.</tspan><tspan x="-59.0" dy="3.4">Datum faces: AB (X datum) and AD (Y datum). AC is protected - no clamping load permitted.</tspan><tspan x="-59.0" dy="3.4">AD flat land ends at the fillet tangent (x 45.85, constructed): usable seating width is 19.05, not 33.30.</tspan><tspan x="-59.0" dy="3.4">EXC-1 and EXC-2 are exclusion zones: geometry within them is uncharacterised and is not to be relied on. Outline shown is indicative.</tspan><tspan x="-59.0" dy="3.4">H and I withdrawn: grip top is flush with AA within 1 mm; grip bottom is undefined.</tspan></text>
+</svg>
