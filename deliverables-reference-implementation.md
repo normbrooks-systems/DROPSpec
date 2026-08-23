@@ -1,7 +1,7 @@
 # Reference Implementation — Deliverable Register
 
 **The Desktop Digital Press (DDP-01)**
-Working draft — v0.2, August 2026
+Working draft — v0.2.1, August 2026
 
 The reference implementation of DROPSpec. This document enumerates what must exist for the machine to be buildable by someone who is not us, and marks what each deliverable blocks or is blocked by.
 
@@ -24,6 +24,8 @@ v0.1 was written against spec drafts 0.1–0.2.2 assumptions. The 0.3.3 TOOMAH r
 6. **G7 added.** Spec §10's die-to-datum swap test needs a bench, and the RI is the bench.
 7. All spec section numbers updated to the 0.3.3 schedule (datums §3.2 → §3.4, keep-outs §3.4 → §3.6, and so on).
 8. **H5 flagged**: `open-tij-printer-proposal.md` is not present in the repository.
+
+*v0.2.1:* §9's corrections landed (README, both glossaries, spec 0.3.3, `drawings/`, `archive/`) — the section is closed and A5's gate is released. B1/H1 updated to the README's revised 2040 gantry and TBD mass.
 
 ---
 
@@ -48,7 +50,7 @@ The largest change from the original proposal and the highest-leverage track. Ev
 
 ### A0. Measured envelope drawing set — **GATES A1 design freeze**
 
-The single-article measurement is done: spec §3.2 carries the measured dimension schedule for the C8842A reference article, and the drawing set (`hp45_ab_face_final.svg`, `hp45_profile_final.svg`) publishes it. `params/hp45-envelope.scad` can be populated at nominal today.
+The single-article measurement is done: spec §3.2 carries the measured dimension schedule for the C8842A reference article, and the drawing set (`drawings/hp45_ab_face_final.svg`, `drawings/hp45_profile_final.svg`) publishes it. `params/hp45-envelope.scad` can be populated at nominal today.
 
 What remains, per spec §10:
 
@@ -118,7 +120,7 @@ The deliverable that replaces the argument the spec used to borrow from steel fi
 
 Acceptance criterion is repeatability against a nozzle pitch (~42 µm), not accuracy — spec §3.4 puts stitch registration in the stall gang's as-manufactured geometry, bounded by the shrink-compensation strategy. The as-built residual is captured once by G1 at build time; it is a property of the gang, not of any cartridge, and nothing about it recurs at insertion (§4.5).
 
-**Status:** NOT STARTED · **GATES:** the README and glossary language corrections in §9
+**Status:** NOT STARTED — the §9 language corrections this gated are committed; the gate is released
 
 ### A6. TOOMAH provision
 
@@ -143,7 +145,7 @@ Datum go/no-go, stagger pitch verification, contact alignment check. Cheap to pr
 
 ### B1. Scan axis structural spec — **GATES B2, B3**
 
-Re-derive from actual head assembly mass. The README's ~2 kg design load and 4080 gantry followed from a steel commercial stall; a printed gang plausibly lands sub-kilo. Deliverable is the load, acceleration, and deflection budget, and the extrusion/rail selection that falls out of it. The spec-side ceiling this must eventually respect — maximum mass of a conforming head — is itself still TBD (spec §3.2, §10).
+Re-derive from actual head assembly mass. The original proposal's ~2 kg design load and 4080 gantry followed from a steel commercial stall; the README now states 2040 with mass TBD (750 g – 2 kg), and a printed gang plausibly lands at the low end. Deliverable is the load, acceleration, and deflection budget, and the confirmation — or correction — of the 2040 selection against the weighed article. The spec-side ceiling this must eventually respect — maximum mass of a conforming head — is itself still TBD (spec §3.2, §10).
 
 **Status:** NOT STARTED · **BLOCKED BY:** A4 (mass estimate)
 
@@ -273,7 +275,7 @@ The routines that make the mechanical tolerances survivable. Each is both firmwa
 
 | # | Deliverable | Notes |
 |---|---|---|
-| H1 | Re-costed BOM | The $400–500 band must be re-derived, not repeated. D1 helps it; 4080/rails/base hurt it. TOOMAH adds a USB-C receptacle, carrier, and cap per slot |
+| H1 | Re-costed BOM | The $400–500 band must be re-derived, not repeated. D1 and the 2040 gantry help it; rails/base hurt it. TOOMAH adds a USB-C receptacle, carrier, and cap per slot |
 | H2 | Build documentation | Assembly, sourcing, first-run |
 | H3 | Ink handling and safety guide | Per README safety posture; solvent ventilation |
 | H4 | Calibration manual | Reading the G-series artifacts |
@@ -281,21 +283,15 @@ The routines that make the mechanical tolerances survivable. Each is both firmwa
 
 ---
 
-## 9. Document Corrections Required
+## 9. Document Corrections Required — CLOSED
 
-Repo documents now out of step, in two groups.
+All corrections landed in the August 2026 commit series and this section is retained as record, not work:
 
-**Stall-provenance corrections** — documents that state the stall is a purchased commercial article:
+- **Stall-provenance corrections** — `README.md` (the gang paragraph), `glossary-voron-to-press.md` (**Hotend / toolhead**), and `glossary-press-to-voron.md` (**Stall**, with the infrastructure-invisibility passage reframed as the standard the printed part must meet) are all corrected and committed.
+- **Spec adoption** — draft 0.3.3 is the current spec at the repository root; the README subtitle and Contents link are corrected; the drawing set is committed at `drawings/`; superseded drafts 0.1 through 0.3.1 are preserved at `archive/`, so the current draft's for-the-record citations resolve.
+- The v0.1 flag on the old §3.2 design note was resolved by adoption — 0.3.3 §3.4 reframes the registration argument as an untested assertion with G7 as its arbiter.
 
-- `README.md` — "used here as the commercial article it is"
-- `glossary-voron-to-press.md` — **Hotend / toolhead**: "bolted on rather than designed"
-- `glossary-press-to-voron.md` — **Stall**: describes a steel catalog fixture. The passage about infrastructure that never fails disappearing from vocabulary is worth keeping, reframed as the standard the printed part must meet rather than a description of what it is.
-
-**Spec-adoption corrections** — housekeeping from moving to 0.3.3:
-
-- `README.md` — subtitle reads "Open Print Standard"; 0.3.3 corrects it to "Open Print Specification" (change item 8). Repository Contents still links `dropspec-head-interface-draft-0.1.md`.
-- Commit the drawing set (`hp45_ab_face_final.svg`, `hp45_profile_final.svg`) and reference it from spec §3.2 and Appendix A.
-- *Resolved by adoption:* the v0.1 flag on the old §3.2 design note — 0.3.3 §3.4 already reframes the registration argument as an untested assertion with §10's swap test (G7 here) as its arbiter.
+Sole survivor: the disposition of `open-tij-printer-proposal.md` remains open as **H5**.
 
 ---
 
